@@ -10,6 +10,9 @@ First, [Download MacType]((https://github.com/snowie2000/mactype))
 ## Scale
 Put your windows 10 scale on at least 110%
 *can be reached by `Desktop > Display Settings > Advanced scale settings`*
+### Recommended: 117
+
+
 
 ## Profile
 Download and copy `MacType-Arash.ini` into `C:\Program Files\MacType\ini`
