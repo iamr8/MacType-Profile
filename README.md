@@ -14,3 +14,6 @@ Best mactype experience on Windows 10
   * For change your custom scale in Windows 10, you need to Right-click on Desktop, click on *Advanced scaling settings* under **Scale and layout**
 * Download and copy `MacType-Arash.ini` profile into `%ProgramFiles%\MacType\ini`
 * **Enjoy the ride :heart::boom:**
+
+## Known Issue
+Current font we used ( MacOS Font ) doesn't respect windows font system. Accordingly may you face an **Square glyph** for some characters of non-english texts. Unfortunately i deal with it for :iran: FARSI language. *Workarounds is being welcomed* :heart:
