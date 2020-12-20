@@ -15,7 +15,7 @@ Best mactype experience on Windows 10
 * **Enjoy the ride :heart::boom:**
 
 ## MacType Update
-Don't forget to update mactype dll files after installing last version. Latest changed files are available MacType issues:
+Don't forget to update mactype dll files after installing last version. Latest changes are available in MacType issues:
 * [MacType64.dll](https://github.com/snowie2000/mactype/issues/488#issuecomment-714879581)
 * [MacType64.Core.dll](https://github.com/snowie2000/mactype/issues/679#issuecomment-670823195)
 
