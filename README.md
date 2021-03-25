@@ -12,6 +12,7 @@ Best mactype experience on Windows 10
 * Adjust your windows 10 scale to `125%`
   * For changing of Windows 10's scale, you need to Right-click on Desktop, click on *Advanced scaling settings* under **Scale and layout**
 * Download and copy `MacType-Arash.ini` profile into `%ProgramFiles%\MacType\ini`
+* Run wizard, select `Tray Mode` ( as the creator said ), and select `MacType-Arash v2.0`
 * **Enjoy the ride :heart::boom:**
 
 ## MacType Update
