@@ -15,12 +15,5 @@ Best mactype experience on Windows 10
 * Run wizard, select `Tray Mode` ( as the creator said ), and select `MacType-Arash v2.0`
 * **Enjoy the ride :heart::boom:**
 
-## MacType Update
-Don't forget to update mactype dll files after installing last version. Latest changes are available in MacType issues:
-* [MacType64.dll](https://github.com/snowie2000/mactype/issues/488#issuecomment-714879581)
-* [MacType64.Core.dll](https://github.com/snowie2000/mactype/issues/679#issuecomment-670823195)
-
-**Please consider that you need to copy these files into MacType installation folder ( after temporary disabling service )**
-
 ## Known Issue
 Current font we used ( MacOS Font ) doesn't respect windows font system. Accordingly may you face an **Square glyph** for some characters of non-english texts. Unfortunately i deal with it for :iran: FARSI language. *Workarounds is being welcomed* :heart:
