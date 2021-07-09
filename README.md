@@ -15,5 +15,8 @@ Best mactype experience on Windows 10
 * Run wizard, select `Tray Mode` ( as the creator said ), and select `MacType-Arash v2.0`
 * **Enjoy the ride :heart::boom:**
 
+## Workarounds
+### `:` Character showing unspecified glyph in TaskBar clock
+WORKAROUND: [Windows 10 System Tray Clock COLON Issue Workaround](https://github.com/iamr8/MacType-Profile/issues/4#issue-928437139)
 ## Known Issue
 Current font we used ( MacOS Font ) doesn't respect windows font system. Accordingly may you face an **Square glyph** for some characters of non-english texts. Unfortunately i deal with it for :iran: FARSI language. *Workarounds is being welcomed* :heart:
