@@ -18,5 +18,11 @@ Best mactype experience on Windows 10
 ## Workarounds
 ### `:` Character showing unspecified glyph for some fonts in TaskBar clock
 POSSIBLE WORKAROUND: [Windows 10 System Tray Clock COLON Issue Workaround](https://github.com/iamr8/MacType-Profile/issues/4#issue-928437139)
+
+### Use in Google Chrome, Microsoft Edge and Mozilla Firefox
+* Download [Tampermoney](https://www.tampermonkey.net/) addons for your own Browser
+* Download `mactype.user.js` from https://github.com/syhyz1990/mactype ( For more question, You need to translate the repo to your own language )
+* Drag and Drop it into Browser ( while you've installed tampermonkey )
+
 ## Known Issue
 Current font we used ( MacOS Font ) doesn't respect windows font system. Accordingly may you face an **Square glyph** for some characters of non-english texts. Unfortunately i deal with it for :iran: FARSI language. *Workarounds is being welcomed* :heart:
