@@ -2,8 +2,12 @@
 Best mactype experience on Windows 10
 
 ## Preview
+Windows 10:
 ![mactype1](/assets/mactype1.png)
 ![mactype2](/assets/mactype2.png)
+
+Windows 11:
+![image](https://user-images.githubusercontent.com/4571571/215567446-cede3325-49f0-4af9-9564-3db247c6add7.png)
 
 ## How to install
 * Download and install [MacType](https://github.com/snowie2000/mactype/releases) *( If you are a c++ developer or atleast you are not strange with it, you can download latest updated source, and build it )*
@@ -24,5 +28,5 @@ POSSIBLE WORKAROUND: [Windows 10 System Tray Clock COLON Issue Workaround](https
 * Download `mactype.user.js` from https://github.com/syhyz1990/mactype ( For more question, You need to translate the repo to your own language )
 * Drag and Drop it into Browser ( while you've installed tampermonkey )
 
-## Known Issue
-Current font we used ( MacOS Font ) doesn't respect windows font system. Accordingly may you face an **Square glyph** for some characters of non-english texts. Unfortunately i deal with it for :iran: FARSI language. *Workarounds is being welcomed* :heart:
+## Known Issues
+Our current font (MacOS Font) doesn't respect the Windows font system. Accordingly, you might encounter a **square glyph** for certain characters of non-English texts. *Workarounds are being welcomed* :heart:
